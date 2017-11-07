@@ -1,5 +1,7 @@
 package de.unitrier.st.fst17.list;
 
+//Hedgedoge21490
+
 /**
  * Doppelt verkettete Liste.
  */
